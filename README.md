@@ -1,6 +1,6 @@
 This is a simple app to send instant message between users.
 
-It aslo support emotion icons.
+It aslo support sending emoticons.
 
 The app has been deployed on:
 
